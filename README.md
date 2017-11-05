@@ -27,6 +27,6 @@ Url should be http://example.com/yiicrud/demos/users/index
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
+* Repo owner or admin: 
 tanzeel.tech@gmail.com
 skype: tanzeel.tech
