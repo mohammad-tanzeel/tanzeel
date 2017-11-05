@@ -12,15 +12,15 @@ Yii 1.1
 
 ### How do I get set up? ###
 
-* Summary of set up
+* Summary of set up:
 get code by cloning through git 
-* Configuration
+* Configuration:
 set yiiframe work path index.php file
-* Dependencies
-Alteast PHP 7 should be intall
+* Dependencies:
+Alteast PHP 7 should be intsall
 * Database configuration
 check the database connection in main.php
-* How to run tests
+* How to run tests:
 Url should be http://example.com/yiicrud/demos/users/index
 
 
