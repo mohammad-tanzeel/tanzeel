@@ -18,9 +18,9 @@ get code by cloning through git
 set yiiframe work path index.php file
 * Dependencies:
 Alteast PHP 7 should be intsall
-* Database configuration
-upload demo.sql for database
-check the database connection in main.php
+* Database configuration:
+<br/>Upload demo.sql for database
+<br/>Check the database connection in main.php
 * How to run tests:
 Url should be http://example.com/yiicrud/demos/users/index
 
